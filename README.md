@@ -16,3 +16,5 @@ Catch me on Twitter @thepiedpyper to keep up with me as I participate in #100Day
 <li> I also paint, and write science fiction and fantasy short stories & novels :space_invader:</li>
   <li>Pronouns: They/them (but I'll accept he or she):rainbow:</li>
 </ul>
+
+<b>Please note</b>, due to the recent proximity of my graduation, professional advisement, and the fact many of the coding projects I did in university are still being used for current classes, I believe it's in the best interest of preserving academic integrity, and avoiding any potential professional issues with old professors, that I keep many of the projects I did for college off GitHub. I will be reviewing and uploading those I believe can be shared publically without issue. Please contact me directly if you wish to see any of the work done during that time! Thank you for understanding!
