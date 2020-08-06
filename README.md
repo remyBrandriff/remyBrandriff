@@ -7,7 +7,7 @@ Hi! I'm Remy, a developer with a focus in UI/UX, web development, and accessibil
 
 Ask me about color palettes 🎨 , typeface, and accessibility-friendly design! :speech_balloon: 
 
-Catch me on Twitter @thepiedpyper to keep up with me as I participate in #100DaysOfCode to improve my Meteor.js and JavaScript, and my general skills as a developer. 
+Check out my <a href="https://codepen.io/thepiedpyper">Codepen.io</a>!
 
 <b>Fun facts...</b><br>
 <ul>
