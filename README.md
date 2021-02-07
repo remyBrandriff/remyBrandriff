@@ -7,7 +7,7 @@ Hi! I'm Remy, a developer with a focus in UI/UX, web development, and accessibil
 
 Ask me about color palettes 🎨 , typeface, and accessibility-friendly design! :speech_balloon: 
 
-Check out my <a href="https://codepen.io/thepiedpyper">Codepen.io</a>!
+Check out my <a href="https://codepen.io/thepiedpyper">Codepen.io</a> and my <a href="https://thepiedpyper.carrd.co/">Carrd</a>!
 
 <b>Fun facts...</b><br>
 <ul>
