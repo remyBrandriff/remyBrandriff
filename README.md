@@ -12,7 +12,7 @@ Check out my <a href="https://codepen.io/thepiedpyper">Codepen.io</a>!
 <b>Fun facts...</b><br>
 <ul>
 <li> I graduated from NAU in 2019 with my B.S. in Applied Computer Science and a minor in Biology :sparkles:</li>
-<li> I'm currently working as an IT Technical Associate, providing technical support to the company and IT department as internal help desk while I improve my programming freelance and grow as a developer :sparkles:</li>
+<li> I'm currently working as the Service Desk Manager for a national healthcare company, providing technical support to the company and IT department as internal help desk while I improve my programming freelance and grow as a developer :sparkles:</li>
 <li> I also paint, and write science fiction and fantasy short stories & novels :space_invader:</li>
 </ul>
 
