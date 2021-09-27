@@ -3,11 +3,11 @@
 <!-- insert line -->
 <hr>
 
-Hi! I'm Remy, a developer with a focus in UI/UX, web development, and accessibility in programming. I am also an advocate for ADHD, LGBT+, and disability diversity in programming! While I am primarily focused on frontend development, I also have experience in backend work in languages such as... Java, C#, Python, C, and C++, and I love databases! 
+Hi! I'm Remy, a developer with a focus in UI/UX, web development, and accessibility in programming. I am also an advocate for ADHD, LGBT+, and disability diversity in programming! While I am primarily focused on frontend development in HTML, CSS, JavaScript, and React, I also have experience in backend work in languages such as... Java, C#, Python, C, and C++, and I love databases! 
 
 Ask me about color palettes 🎨 , typeface, and accessibility-friendly design! :speech_balloon: 
 
-Check out my <a href="https://codepen.io/thepiedpyper">Codepen.io</a> and my <a href="https://thepiedpyper.carrd.co/">Carrd</a>!
+Check out my <a href="https://codepen.io/thepiedpyper">Codepen.io</a>!
 
 <b>Fun facts...</b><br>
 <ul>
